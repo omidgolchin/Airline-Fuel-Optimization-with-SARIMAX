@@ -12,7 +12,8 @@ This section highlights the results of the SARIMAX model used to forecast daily 
   - ARIMA (p, d, q): (2, 1, 1)  
   - Seasonal (P, D, Q, s): (1, 1, 1, 7)  
 - **AIC (Akaike Information Criterion)**: -2683.269  
-- **Residual Analysis**: Residuals showed no significant autocorrelation (confirmed by Ljung-Box test).  
+- **Residual Analysis**: Residuals showed no significant autocorrelation (confirmed by Ljung-Box test).
+-  
 ![SARIMAX Results](https://github.com/user-attachments/assets/9f273bd5-c494-4a0b-82c7-044bad99553d)
 
 
